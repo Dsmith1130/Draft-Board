@@ -6,4 +6,5 @@ If you like the draft board, please consider a sponsorship towards future improv
 Planned updates:
 
 Pick timer with an option to auto pick the best available player
+
 Support for auction style draft
