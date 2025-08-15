@@ -8,3 +8,5 @@ Planned updates:
 Pick timer with an option to auto pick the best available player
 
 Support for auction style draft
+
+Support for other sports
